@@ -1,5 +1,5 @@
 <a href="#">
-<img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="100px"/>
+<img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="125px"/>
 </a>
 
 <h1 align="center">Hi
