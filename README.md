@@ -8,7 +8,7 @@
     , I'm Muhammad Israr
 </h1>
 <h3 align="center">
-    Business Central Developer || Technical Consultant || ERP Consultant || Developer at Microsoft Certified Partners || .NET Developer || Software Engineer
+    ERP Consultant || ERP Developer || .NET Developer || Software Engineer || Business Central Developer || Dynamics NAV Developer
 </h3>
 
 
@@ -16,7 +16,7 @@
 ## 🙋‍♂️ About Me
 - 👋 I’m @muhammadIsrarRajput
 - 👀 I’m interested in learning C# and AL.
-- 🌱 I’m currently working as a software engineer (ERP Consultant) in Dynamics360.
+- 🌱 I’m currently working as a Software Engineer and ERP Consultant at Dynamics360.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 Reach me via attariisrar21@gmail.com.
 
